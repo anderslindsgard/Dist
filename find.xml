@@ -1,0 +1,31 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.tsx" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*style.ts</mask>
+    <mask>!*.html</mask>
+    <mask>*.test*</mask>
+    <mask>*.jsx</mask>
+    <mask>*.java</mask>
+    <mask>*.actions.ts</mask>
+    <mask>*Module.ts</mask>
+    <mask>*.ts</mask>
+    <mask>*.md</mask>
+    <mask>*.style.ts</mask>
+    <mask>*.test.ts</mask>
+    <mask>*.test.tsx</mask>
+    <mask>*.tsx</mask>
+  </component>
+</application>

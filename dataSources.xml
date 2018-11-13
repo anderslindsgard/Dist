@@ -1,0 +1,10 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="seal@sealws" uuid="f9130794-a26f-47dc-a04d-47200c5375cd">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://sealws:5432/seal</jdbc-url>
+    </data-source>
+  </component>
+</application>
