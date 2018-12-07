@@ -4,6 +4,13 @@
     <option name="FONT_SCALE" value="2.0" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="TypeScript" value="true" />
+      </map>
+    </option>
+    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
   </component>
 </application>
