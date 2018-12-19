@@ -26,5 +26,6 @@
     <mask>*.test.ts</mask>
     <mask>*.test.tsx</mask>
     <mask>*.tsx</mask>
+    <mask>*.conf</mask>
   </component>
 </application>
