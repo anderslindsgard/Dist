@@ -27,5 +27,6 @@
     <mask>*.conf</mask>
     <mask>*.tsx</mask>
     <mask>*.test.tsx</mask>
+    <mask>*i18n*</mask>
   </component>
 </application>
