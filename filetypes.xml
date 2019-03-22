@@ -5,6 +5,7 @@
       <mapping ext="gz" type="HTML" />
       <mapping ext="expected" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="0000000000000000000" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
