@@ -12,5 +12,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://192.168.212.35:5432/seal</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="pre-prod-release-testing-centos2 (10.0.0.25)[40013]" uuid="299b4973-db88-494f-9b34-f92acc8baeca">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://10.0.0.25:40013/seal</jdbc-url>
+    </data-source>
   </component>
 </application>
