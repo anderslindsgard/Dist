@@ -18,5 +18,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://10.0.0.25:40013/seal</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="Krusty" uuid="508a7a63-b492-43a8-9972-5f4a11ac8c9f">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://krusty.seal-software.net:5432/seal</jdbc-url>
+    </data-source>
   </component>
 </application>
