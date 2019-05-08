@@ -27,7 +27,7 @@
     <mask>*i18n.ts</mask>
     <mask>*.style.ts</mask>
     <mask>*.tsx</mask>
-    <mask>*.ts</mask>
     <mask>*Resource*</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
