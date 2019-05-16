@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -28,7 +27,7 @@
     <mask>*i18n.ts</mask>
     <mask>*Resource*</mask>
     <mask>*.ts</mask>
-    <mask>*.style.ts</mask>
     <mask>*.tsx</mask>
+    <mask>*.style.ts</mask>
   </component>
 </application>
