@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.md" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -28,7 +28,7 @@
     <mask>*Resource*</mask>
     <mask>*.ts</mask>
     <mask>*.style.ts</mask>
-    <mask>*.tsx</mask>
     <mask>*.md</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
