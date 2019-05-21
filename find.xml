@@ -5,6 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -28,8 +29,8 @@
     <mask>*i18n.ts</mask>
     <mask>*Resource*</mask>
     <mask>*.ts</mask>
-    <mask>*.style.ts</mask>
     <mask>*.md</mask>
+    <mask>*.style.ts</mask>
     <mask>*.tsx</mask>
   </component>
 </application>
