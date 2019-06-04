@@ -1,0 +1,259 @@
+<application>
+  <component name="sonar-resources-application-component">
+    <option name="sonarResourcesBySonarServerName">
+      <map>
+        <entry key="Seal Sonar">
+          <value>
+            <list>
+              <Resource>
+                <option name="key" value="com.seal.digapp:seal-digapp" />
+                <option name="name" value="Seal Digapp" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-importer" />
+                <option name="name" value="Seal Importer" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-crawler" />
+                <option name="name" value="Seal Importer Master" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal.integration.engine:docusign-parent-pom" />
+                <option name="name" value="Seal Integration Engine" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal.integration.engine:seal-ie-coupa" />
+                <option name="name" value="Seal Integration Engine Coupa" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-izpack-installer-template" />
+                <option name="name" value="Seal IzPack Installer template" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="seal-pipeline-library" />
+                <option name="name" value="Seal Pipeline Library" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal.embedded:seal-embedded-parent" />
+                <option name="name" value="Seal embedded templates" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="dev-infrastructure" />
+                <option name="name" value="dev-infrastructure" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:gate" />
+                <option name="name" value="gate" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-3rd-party-commons" />
+                <option name="name" value="seal-3rd-party-commons" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-activemq" />
+                <option name="name" value="seal-activemq" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal.admin:seal-admin" />
+                <option name="name" value="seal-admin" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal.blobstore:seal-blobstore" />
+                <option name="name" value="seal-blobstore" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-caat" />
+                <option name="name" value="seal-caat" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-chain" />
+                <option name="name" value="seal-chain" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-commons" />
+                <option name="name" value="seal-commons" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-configuration" />
+                <option name="name" value="seal-configuration" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal.content:seal-contract-parent" />
+                <option name="name" value="seal-contract-parent" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-digapp" />
+                <option name="name" value="seal-digapp" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-document-viewer" />
+                <option name="name" value="seal-document-viewer" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-finereader" />
+                <option name="name" value="seal-finereader" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-gui" />
+                <option name="name" value="seal-gui" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal.api:seal-internal-api-parent" />
+                <option name="name" value="seal-internal-api (POM)" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-job-monitoring" />
+                <option name="name" value="seal-job-monitoring" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:logic-connector" />
+                <option name="name" value="seal-logic-connector" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-main" />
+                <option name="name" value="seal-main" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-multichain" />
+                <option name="name" value="seal-multichain" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-postgresql" />
+                <option name="name" value="seal-postgresql" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-proxy" />
+                <option name="name" value="seal-proxy" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-server-jre" />
+                <option name="name" value="seal-server-jre" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-server-jre-installer" />
+                <option name="name" value="seal-server-jre-installer" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-server-jre-zip-installer" />
+                <option name="name" value="seal-server-jre-zip-installer" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-sftp" />
+                <option name="name" value="seal-sftp" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-solr" />
+                <option name="name" value="seal-solr" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-solr-security" />
+                <option name="name" value="seal-solr-security" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-solr-service" />
+                <option name="name" value="seal-solr-service" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-storm" />
+                <option name="name" value="seal-storm" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-storm-commons" />
+                <option name="name" value="seal-storm-commons" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-storm-master" />
+                <option name="name" value="seal-storm-master" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-storm-ui" />
+                <option name="name" value="seal-storm-ui" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-storm-worker" />
+                <option name="name" value="seal-storm-worker" />
+                <option name="qualifier" value="BRC" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-third-party" />
+                <option name="name" value="seal-third-party" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-uploader" />
+                <option name="name" value="seal-uploader" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:seal-zookeeper" />
+                <option name="name" value="seal-zookeeper" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal.smp:smp" />
+                <option name="name" value="smp" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal.nestil:vmmanager" />
+                <option name="name" value="vmmanager" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:walrus-lab" />
+                <option name="name" value="walrus-lab" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="com.seal:walrus-main" />
+                <option name="name" value="walrus-main" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
