@@ -30,8 +30,8 @@
     <mask>*Repository.java</mask>
     <mask>*Resource.java</mask>
     <mask>pom.xml</mask>
-    <mask>*.tsx</mask>
     <mask>*Test.java</mask>
     <mask>*.ts</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
