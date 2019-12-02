@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*style.ts</mask>
@@ -29,11 +30,11 @@
     <mask>*.yaml</mask>
     <mask>reference.conf</mask>
     <mask>*.java</mask>
-    <mask>*.tsx</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>*.action.ts</mask>
     <mask>*.i18n.ts</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
