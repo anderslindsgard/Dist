@@ -1,7 +1,9 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="AUTOINSERT_PAIR_QUOTE" value="false" />
+  </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="26" />
-    <option name="FONT_SCALE" value="2.0" />
+    <option name="FONT_SIZE" value="13" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
