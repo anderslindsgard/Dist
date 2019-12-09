@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.test.tsx" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*style.ts</mask>
@@ -14,7 +15,6 @@
     <mask>*.test.ts</mask>
     <mask>*.conf</mask>
     <mask>*i18n*</mask>
-    <mask>*.test.tsx</mask>
     <mask>!*.js</mask>
     <mask>*i18n.ts</mask>
     <mask>*Resource*</mask>
@@ -33,5 +33,6 @@
     <mask>*.action.ts</mask>
     <mask>*.i18n.ts</mask>
     <mask>*.tsx</mask>
+    <mask>*.test.tsx</mask>
   </component>
 </application>
