@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>!*.html</mask>
     <mask>*.test*</mask>
     <mask>*.jsx</mask>
@@ -30,10 +31,10 @@
     <mask>*.action.ts</mask>
     <mask>*.i18n.ts</mask>
     <mask>*.test.tsx</mask>
-    <mask>*.ts</mask>
     <mask>*.tsx</mask>
     <mask>*Test.*</mask>
     <mask>*config.*</mask>
     <mask>*Config*.java</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
