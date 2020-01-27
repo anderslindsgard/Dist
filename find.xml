@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Config.java" />
+    <option name="FILE_MASK" value="*Test.java" />
     <mask>*.test*</mask>
     <mask>*.jsx</mask>
     <mask>*.actions.ts</mask>
@@ -21,7 +21,6 @@
     <mask>*Repository.java</mask>
     <mask>*Resource.java</mask>
     <mask>pom.xml</mask>
-    <mask>*Test.java</mask>
     <mask>*.yaml</mask>
     <mask>reference.conf</mask>
     <mask>*.java</mask>
@@ -36,5 +35,6 @@
     <mask>*Config*.java</mask>
     <mask>*.ts</mask>
     <mask>*Config.java</mask>
+    <mask>*Test.java</mask>
   </component>
 </application>
