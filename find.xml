@@ -5,12 +5,12 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.conf" />
     <mask>*.test*</mask>
     <mask>*.jsx</mask>
     <mask>*.actions.ts</mask>
     <mask>*Module.ts</mask>
     <mask>*.test.ts</mask>
-    <mask>*.conf</mask>
     <mask>*i18n*</mask>
     <mask>!*.js</mask>
     <mask>*i18n.ts</mask>
@@ -35,5 +35,6 @@
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
     <mask>*.java</mask>
+    <mask>*.conf</mask>
   </component>
 </application>
