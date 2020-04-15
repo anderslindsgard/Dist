@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.jsx</mask>
+    <option name="FILE_MASK" value="*.test.*" />
     <mask>*.actions.ts</mask>
     <mask>*Module.ts</mask>
     <mask>*.test.ts</mask>
@@ -33,5 +33,6 @@
     <mask>*.test*</mask>
     <mask>*.tsx</mask>
     <mask>pom.xml</mask>
+    <mask>*.test.*</mask>
   </component>
 </application>
