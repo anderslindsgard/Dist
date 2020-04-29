@@ -36,5 +36,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://192.168.88.33:40003/seal</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="po-swarm.seal-software.tech" uuid="6cb29f49-2a4a-4d8e-aedf-62aff30a7e6c">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://192.168.88.74:40023/seal</jdbc-url>
+    </data-source>
   </component>
 </application>
