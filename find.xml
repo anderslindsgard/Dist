@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.actions.ts</mask>
     <mask>*Module.ts</mask>
     <mask>*.test.ts</mask>
@@ -30,11 +30,11 @@
     <mask>*.yaml</mask>
     <mask>*.conf</mask>
     <mask>*.test*</mask>
-    <mask>*.tsx</mask>
     <mask>pom.xml</mask>
     <mask>*.test.*</mask>
     <mask>*Test.java</mask>
     <mask>*.java</mask>
     <mask>*.ts</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
