@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="reference.conf" />
     <mask>*.actions.ts</mask>
     <mask>*Module.ts</mask>
     <mask>*.test.ts</mask>
@@ -16,7 +17,6 @@
     <mask>*.style.ts</mask>
     <mask>*Repository.java</mask>
     <mask>*Resource.java</mask>
-    <mask>reference.conf</mask>
     <mask>*.scss</mask>
     <mask>*.html</mask>
     <mask>*.action.ts</mask>
@@ -35,5 +35,6 @@
     <mask>*.java</mask>
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
+    <mask>reference.conf</mask>
   </component>
 </application>
